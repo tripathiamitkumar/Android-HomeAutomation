@@ -15,4 +15,4 @@ Java
 Android Programming Knowledge .
 Android UI design .
 MySql Database
-email:er.amitkumartripathi@gmail.com
+
